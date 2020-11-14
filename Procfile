@@ -1,0 +1,1 @@
+web: gunicorn linechatbot_1:app --log-file=-
